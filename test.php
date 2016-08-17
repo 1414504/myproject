@@ -1,6 +1,8 @@
 <html>
 <head>
 
+    <link type="text/css" href="bootstrap.min.css" rel="stylesheet">
+
     <title>Shahid Baig</title>
 </head>
 
